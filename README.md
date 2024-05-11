@@ -41,7 +41,7 @@ Replace the placeholders with your actual database connection details and OpenAI
 1. Start the chatbot by running the following command:
 
 ```bash
-python chatbot.py
+python app.py
 ```
 
 2. Interact with the chatbot by entering queries or questions about the database.
